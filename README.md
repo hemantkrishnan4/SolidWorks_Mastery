@@ -62,3 +62,11 @@ I would like to express my gratitude to the [SolidWorks Beginners Course](https:
 
 This repository is licensed under the [MIT License](LICENSE), allowing you to use and modify the content for personal and educational purposes.
 
+## Note on File Sharing
+
+Due to restrictions on sharing the original exercise files from the Udemy SolidWorks course, I am unable to provide direct access to the source files. However, to showcase my work, I have included JPG images representing snapshots of the design process and final results.
+
+Please note that these images serve as visual representations and do not include the original editable files. If you have any questions or would like more information, feel free to reach out. Thank you for your understanding.
+
+
+
